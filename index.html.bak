@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>金世博的简历</title>
-    <meta name="description" content="我是一个充满活力、对后端由衷热爱、善于发现问题的后端工程师。我目前正在寻找Java后端工程师岗位，希望借此机会为贵司献上我的一点绵薄之力！">
+    <meta name="description" content="我是一个充满活力、善于发现问题的后端工程师。我目前正在寻找Java后端工程师岗位，希望借此机会为贵司献上我的一点绵薄之力！">
     <meta name="keywords" content="金世博,后端,工作,简历">
     <link rel="shortcut icon" href="favicon.ico">
     <link rel="stylesheet" href="dist/css/style.min.css">
@@ -23,7 +23,7 @@
     <aside>
         <ul>
             <li>
-                <a href="https://github.com/KevinKing-shibo/resume" target="_blank">源代码</a>
+                <a href="https://github.com/KevinKing-shibo/KevinKing-shibo.github.io" target="_blank">源代码</a>
             </li>
             <li>
                 <a href="金世博的简历A3.pdf" target="_blank">PDF 下载</a>
@@ -42,7 +42,7 @@
             </div>
             <ul class="side-info">
                 <li class="someRight">
-                    <dt><i class="icon-bookmark"></i>Contact. 联系方式</dt>
+                    <dt><i class="icon-bookmark"></i>Contact. 联系方式：18811333945</dt>
                     <dd><i class="icon-mail-alt"></i>邮箱: <a href="http://www.googlewo.com/resume/" target="_blank">googlewo.com</a></dd>
                     <dd><i class="icon-wechat"></i>微信: 18811333945</dd>
                     <dd><i class="icon-qq"></i>QQ: <a href="http://wpa.qq.com/msgrd?v=3&uin=1378810320&site=qq&menu=yes" target="_blank">1378810320</a></dd>
@@ -82,7 +82,7 @@
                 </li>
             </ul>
             <div class="note">
-                <p>我是一个充满活力、对服务器后端由衷热爱、善于发现问题的后端工程师。</p>
+                <p>我是一个充满活力、善于发现问题的后端工程师。</p>
                 <p>我目前正在寻找Java后端工程师岗位，希望借此机会为贵司献上我的一点绵薄之力！</p>
             </div>
         </div>
@@ -93,9 +93,9 @@
                     <dd><span>个人信息:</span> 金世博 / 男 / 25岁</dd>
                     <dd><span>教育经历:</span> 本科 / 辽宁科技大学 / 2016届毕业生</dd>
                     <dd><span>英语水平:</span> CET-6</dd>
-                    <dd><span>常用ID:</span> </dd>
-                    <dd><span>Blog:</span> <a href="http://www.googlewo.com" target="_blank">www.googlewo.com</a></dd>
-                    <dd><span>GitHub:</span> <a href="https://www.github.com/ZHJUNJUN" target="_blank">www.github.com/ZHJUNJUN</a></dd>
+                    <dd><span>工作经验:</span> 沈阳市bigcan工作室 / 一年</dd>
+                   	<dd><span>工作描述:</span> 主要从事用户需求分析、功能模块分析、编码实现及文档编写等</dd>
+                    <dd><span>GitHub:</span> <a href="https://www.github.com/KevinKing-shibo" target="_blank">www.github.com/KevinKing-shibo</a></dd>
                 </li>
                 <li>
                     <dt><i class="icon-bookmark"></i>Experience. 项目.</dt>
@@ -136,14 +136,7 @@
                             </h4>
                             <p>一系列Python小程序，包括 图像处理 数据库 文件操作 正则式 等内容</p>
                         </li>
-                        <li>
-                            <div class="circle"></div>
-                            <h4>
-                                Simple-C Compiler
-                                <a href="" target="_blank"><i class="icon-link"></i>源代码</a>
-                            </h4>
-                            <p>一个用C编写的简单类C语言编译器，目前完成了 词法分析 语法分析 阶段，使用了 Lex Yacc 两个工具 没有维护</p>
-                        </li>
+                        
                         <li>
                             <div class="circle"></div>
                             <h4>
@@ -215,7 +208,7 @@
         </div>
     </div>
     <footer>
-        <p>Theme by <a href="https://github.com/ZHJUNJUN/resume" target="_blank">googlewo</a>. Made with <i class="icon-heart throb" style="color: #d43f57;"></i> by googlewo. 最后更新于2016年3月1日</p>
+        <p>Theme by <a href="https://github.com/KevinKing-shibo/KevinKing-shibo.github.io" target="_blank">googlewo</a>. Made with <i class="icon-heart throb" style="color: #d43f57;"></i> by googlewo. 最后更新于2016年3月1日</p>
     </footer>
 </body>
 </html>
